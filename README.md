@@ -35,8 +35,8 @@ This project uses the [Seattle Airbnb Open Data](https://www.kaggle.com/datasets
 
 ## Files
 
-- `Seattle Airbnb Dataset Analysis.twbx` — Tableau packaged workbook
-- `Seattle AirBnB analysis.png` — Dashboard screenshot
+- `Airbnb tableau Renewed.twb` — Tableau packaged workbook
+- `AirBNB_dashboard.png` — Dashboard screenshot
 - `AirBNB_cover.png` — Cover image
 
 ## Author
