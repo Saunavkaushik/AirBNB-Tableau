@@ -4,8 +4,6 @@ Tableau dashboard exploring host performance, pricing trends, and neighborhood d
 
 ![Seattle Airbnb Market Analysis](AirBNB_cover.png)
 
-**[View Interactive Dashboard on Tableau Public →](https://public.tableau.com/app/profile/saunav.kaushik/viz/SeattleAirbnbDatasetAnalysis/Dashboard1)**
-
 ## Overview
 
 This project analyzes listing-level Airbnb data for Seattle to understand what actually drives price and host quality signals at the neighborhood level — and, just as importantly, what doesn't.
